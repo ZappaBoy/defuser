@@ -1,11 +1,11 @@
 {
    "desc": {
-      "message": "AntiMiner is #1 Miner Blocker, helps to stop coin miners, cryptojackers and block mining scripts from your CPU. Best MinerBlock tool"
+      "message": "HiJacket-Defuser block GPU web cryptominers"
    },
    "name": {
-      "message": "AntiMiner - #1 Coin Minerblock"
+      "message": "HiJacket-Defuser"
    },
    "title": {
-      "message": "Antiminer blocks all JS miners on the websites you visit."
+      "message": "HiJacket-Defuser blocks GPU JS miners on the websites you visit."
    }
 }
